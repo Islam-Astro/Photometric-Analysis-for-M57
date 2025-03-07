@@ -23,15 +23,15 @@ Raw and reduced **V filter frames** of M57 are shown to demonstrate the effectiv
 
 **Figure 1**: (a) Raw V filter frame of M57 before data reduction. (b) Same frame after reduction and cosmic ray removal.  
 
-![V-Filter Frame Reduction]()  
+![V-Filter Frame Reduction](![WhatsApp Image 2025-03-07 at 05 31 01_200b455b](https://github.com/user-attachments/assets/d948983d-462a-4f6c-96d3-7cb6bc1e3565))  
 
-### M57 Frame in Detector Coordinates  
+### M57 Frame in Detector Coordinates
 The reduced **V-band frame** is displayed in two representations:  
 
 **Figure 2**: (a) The frame shown in the native pixel scale, highlighting the nebular structure in detector coordinates.  
 (b) The same frame in an alternative system for better visualization.  
 
-![M57 Detector Coordinates](![image](https://github.com/user-attachments/assets/8170df74-3a4d-4264-8415-909300c0460e))  
+![M57 Detector Coordinates](![WhatsApp Image 2025-03-07 at 05 31 07_d8909f02](https://github.com/user-attachments/assets/32e1f06c-be2c-4093-8f00-5fa28788e70c))  
 
 ## Photometry of M57's Central Star
 The brightness measurements for M57’s central star in different filters are provided below:
@@ -48,7 +48,7 @@ The **target star (central star)** and **comparison stars** used for photometric
 
 **Figure 3**: The central star (red) and comparison stars (yellow) used for calibration.  
 
-![Photometric Calibration](![image](https://github.com/user-attachments/assets/0f001498-283a-4e76-ae54-41d7fb19088e))  
+![Photometric Calibration](![WhatsApp Image 2025-03-07 at 05 31 24_3339d897](https://github.com/user-attachments/assets/6a8174e6-b79f-4a9d-836d-ad35fb45f2d1))  
 
 ### Multi-band Imaging of M57  
 Observations in multiple bands provide insight into the nebular structure.  
@@ -56,4 +56,5 @@ Observations in multiple bands provide insight into the nebular structure.
 **Figure 4**: M57 observed in various photometric bands:  
 (a) **B**, (b) **V**, (c) **R**, (d) **I**, (e) **Hα**, (f) **OIII**.  
 
-![Multiband Imaging](![image](https://github.com/user-attachments/assets/4fb0e31d-5b0e-40ed-b220-52a37f637c6c))  
+![Multiband Imaging](![WhatsApp Image 2025-03-07 at 05 31 17_495b1672](https://github.com/user-attachments/assets/3942d825-fe34-405e-99c9-435c1d8749da)
+)  
