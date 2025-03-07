@@ -23,7 +23,7 @@ Raw and reduced **V filter frames** of M57 are shown to demonstrate the effectiv
 
 **Figure 1**: (a) Raw V filter frame of M57 before data reduction. (b) Same frame after reduction and cosmic ray removal.  
 
-![V-Filter Frame Reduction](![image](https://github.com/user-attachments/assets/eaa2a15e-75e4-4299-8250-c430e8816f94))  
+![V-Filter Frame Reduction]()  
 
 ### M57 Frame in Detector Coordinates  
 The reduced **V-band frame** is displayed in two representations:  
