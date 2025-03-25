@@ -56,4 +56,4 @@ Observations in multiple bands provide insight into the nebular structure.
 **Figure 4**: M57 observed in various photometric bands:  
 (a) **B**, (b) **V**, (c) **R**, (d) **I**, (e) **Hα**, (f) **OIII**.  
 
-![Multiband Imaging](![WhatsApp Image 2025-03-07 at 05 31 17_495b1672](https://github.com/user-attachments/assets/3942d825-fe34-405e-99c9-435c1d8749da)  
+![WhatsApp Image 2025-03-07 at 05 31 17_495b1672](https://github.com/user-attachments/assets/3942d825-fe34-405e-99c9-435c1d8749da)  
