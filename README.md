@@ -38,10 +38,9 @@ The brightness measurements for M57’s central star in different filters are pr
 
 | Date | Filter | Magnitude (m ± σ) |
 |------|--------|-------------------|
-| 20 April 2024 (JD 2460420.5) | B | 13.38 ± 0.01 |
-|  | V | 13.94 ± 0.02 |
-|  | R | 14.67 ± 0.02 |
-|  | I | 15.12 ± 0.02 |
+| 20 April 2024 (JD 2460420.5) | B | 15.07 ± 0.02 |
+|  | V | 15.66 ± 0.03 |
+|  | R | 15.81 ± 0.02 |
 
 ### Photometric Calibration  
 The **target star (central star)** and **comparison stars** used for photometric calibration are marked.  
