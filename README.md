@@ -46,9 +46,9 @@ The brightness measurements for M57’s central star in different filters are pr
 ### Photometric Calibration  
 The **target star (central star)** and **comparison stars** used for photometric calibration are marked.  
 
-**Figure 3**: The central star (red) and comparison stars (yellow) used for calibration.  
+**Figure 3**: The central star (red) and comparison star (yellow) used for calibration.  
 
-![WhatsApp Image 2025-03-07 at 05 31 24_3339d897](https://github.com/user-attachments/assets/6a8174e6-b79f-4a9d-836d-ad35fb45f2d1) 
+![Target and Comparison stars](https://github.com/user-attachments/assets/c4187206-b91a-4d12-97da-3571aa57de59)
 
 ### Multi-band Imaging of M57  
 Observations in multiple bands provide insight into the nebular structure.  
